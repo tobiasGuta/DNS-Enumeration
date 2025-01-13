@@ -36,3 +36,6 @@ This tool is based on one of the modules from HackTheBox Academy, with several m
 -n: List of nameservers (e.g., ns1.example.com ns2.example.com)
 -o: Output file (e.g., subdomains.json)
 -f: Output format (json, csv, txt)
+
+![image](https://github.com/user-attachments/assets/2a8892a6-c7b3-4f9e-83c4-e3c15d485308)
+
