@@ -14,3 +14,25 @@ This tool is based on one of the modules from HackTheBox Academy, with several m
 ## Requirements:
 - `dnspython`
 - `tqdm` (for progress bar)
+
+## Installation:
+1. Clone the repository:
+   ```bash
+    https://github.com/tobiasGuta/DNS-Enumeration.git
+   ```
+## Install the required dependencies
+
+  ```bash
+    pip install -r requirements.txt
+  ```
+
+## Usage:
+
+```bash
+  python3 dns-recon.py -d <domain> -n <nameserver1> <nameserver2> ... -o <output_file> -f <output_format>
+```
+
+-d: Target domain (e.g., example.com)
+-n: List of nameservers (e.g., ns1.example.com ns2.example.com)
+-o: Output file (e.g., subdomains.json)
+-f: Output format (json, csv, txt)
