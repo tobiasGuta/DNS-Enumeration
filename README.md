@@ -17,14 +17,15 @@ This tool is based on one of the modules from HackTheBox Academy, with several m
 
 ## Installation:
 1. Clone the repository:
-   ```bash
-    https://github.com/tobiasGuta/DNS-Enumeration.git
-   ```
+
+```bash
+  https://github.com/tobiasGuta/DNS-Enumeration.git
+```
 ## Install the required dependencies
 
-  ```bash
-    pip install -r requirements.txt
-  ```
+```bash
+  pip install -r requirements.txt
+```
 
 ## Usage:
 
